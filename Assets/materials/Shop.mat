@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Shop
-  m_Shader: {fileID: -6465566751694194690, guid: 28b9ac049e15ac54d9d5b8344a6d5f7e, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 763f6b8a5e8624442b43fe549cfb51a5, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -81,8 +81,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Vector1_2cbe541045294cccba8da9e2f8f6eada: 0.14
-    - Vector1_5c4e315f6769485e8e35d996cde82925: 0.1
-    - Vector1_89eef8a850f5403b85589e6b8d7e0dfd: 500
+    - Vector1_5c4e315f6769485e8e35d996cde82925: 0.3
+    - Vector1_89eef8a850f5403b85589e6b8d7e0dfd: 1000
     - Vector1_db009b81651e4eb4b488920c0770b5f6: 0.25
     - Vector1_de1ece8b3bd34407a4d05782834e0aa9: 0.05
     - _AlphaClip: 0
